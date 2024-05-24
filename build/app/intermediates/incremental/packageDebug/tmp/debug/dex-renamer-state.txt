@@ -1,4 +1,0 @@
-#Thu May 02 14:10:08 PKT 2024
-base.0=D\:\\vs_flutter_projects\\al_quran\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
